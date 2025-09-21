@@ -7,6 +7,8 @@ I enjoy creating new challenging projects, keeping high standards with accesibil
 You can also find me in Linkedin
 https://www.linkedin.com/in/alex-curiel-front-end-developer
 
+Email ✉️: alejandro.ma.garcia@outlook.com
+
 ## I know how to use:
 ⚪ HTML
 ⚫ CSS
