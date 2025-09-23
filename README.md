@@ -9,6 +9,8 @@ https://www.linkedin.com/in/alex-curiel-front-end-developer
 
 Email ✉️: alejandro.ma.garcia@outlook.com
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=AlejCu
+
 ## I know how to use:
 ⚪ HTML
 ⚫ CSS
