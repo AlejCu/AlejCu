@@ -20,7 +20,7 @@ Email ✉️: alejandro.ma.garcia@outlook.com
 ⚫ API
 
 ## The projects I have been working on are
-1️⃣ [Ecommerce Page] {Repository link: https://github.com/AlejCu/Ecommerce-project Live site: https://alejcu.github.io/Ecommerce-project/}
+1️⃣ [Ecommerce Page] {Repository link: https://github.com/AlejCu/Ecommerce-project Live site: https://alejcu.github.io/Ecommerce-project/ }
 
 *Developed using only HTML, CSS with SASS and Javascript*
 
@@ -28,13 +28,13 @@ This website allows you to browse the available items from the store page and th
 
 I have plans on updating this site to have better functionality, performance and accesibility along with a better design.
 
-2️⃣ [CARAS magazie project] {Repository link: https://github.com/AlejCu/Revista-Caras-Project-EBAC Live site: https://alejcu.github.io/Revista-Caras-Project-EBAC/}
+2️⃣ [CARAS magazie project] {Repository link: https://github.com/AlejCu/Revista-Caras-Project-EBAC Live site: https://alejcu.github.io/Revista-Caras-Project-EBAC/ }
 
 *Developed using REACT, HTML, Typescript, Jest and styled-components*
 
 This site works as a landing page with a call to action to sign up to the newsletter for the magazine, this site has 2 functionalities added to the components, the first one is an email validator for the newsletter to make sure that only valid emails can be entered and that an email needs to be entered to be able to submit the form, the other functionality is an automatic scroller for the user testimonials to make them more interesting to look at and interactive.
 
-3️⃣ [Chatbot] {Repository link: https://github.com/AlejCu/Chatbot Live site: https://alejcu.github.io/Chatbot/}
+3️⃣ [Chatbot] {Repository link: https://github.com/AlejCu/Chatbot Live site: https://alejcu.github.io/Chatbot/ }
 
 *Developed using HTML, CSS with SASS and Javascript*
 
@@ -42,13 +42,13 @@ This is a simple site with a chatbot functionalitiy based on a form that takes t
 
 I plan to add IA to this project to make the bot interactions work better based on different trigger works for messages and a better response options tree.
 
-4️⃣ [Product Landing page] {Repository link: https://github.com/AlejCu/product-page Live site: https://alejcu.github.io/product-page/}
+4️⃣ [Product Landing page] {Repository link: https://github.com/AlejCu/product-page Live site: https://alejcu.github.io/product-page/ }
 
 *Developed using REACT, HTML, Javascript, Jest and styled-components*
 
 This site is another landing page with more visually interesting and interactive components, one of the components consists of a list of sections in a grid view that when hovered over, it displays a descriptive text for each image coming from the left side of the screen, there is another component with some simple insurance information that has some text coming from the bottom of the screen when the user reaches a certain area of the screen where that component is viewable, and finally we have the call to action which works as a form the customers can fill in for the sales team to contact them, this function has an email and phone number validator, making sure the email is valid and that the phone number only consists of numbers and is 10 digits long.
 
-5️⃣ [Show Finder] {Repository link: https://github.com/AlejCu/Show-Finder Live site: https://alejcu.github.io/Show-Finder/}
+5️⃣ [Show Finder] {Repository link: https://github.com/AlejCu/Show-Finder Live site: https://alejcu.github.io/Show-Finder/ }
 
 *Developed using REACT, HTML, Typescript, Jest, react-router and styled-components*
 
